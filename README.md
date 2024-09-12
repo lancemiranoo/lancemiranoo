@@ -4,8 +4,6 @@
 <img align="right" alt="Coding" width="400" src=https://steamuserimages-a.akamaihd.net/ugc/2047482034942683256/6EA887BE67244A2742B97D2D4F7BB45E9F5CE0BC/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kianaaxd&label=Profile%20views&color=0e75b6&style=flat" alt="kianaaxd" /> </p>
 
-<p align="left"> <a href="https://twitter.com/kianaxd" target="blank"><img src="https://img.shields.io/twitter/follow/kianaxd?logo=twitter&style=for-the-badge" alt="kianaxd" /></a> </p>
-
 - 🔭 I’m currently working on building my knowledge on programming
 - 📫 How to reach me **lancemirano02@gmail.com*
 
