@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kianaaxd&label=Profile%20views&color=0e75b6&style=flat" alt="kianaaxd" /> </p>
 
 - 🔭 I’m currently working on building my knowledge on programming
-- 📫 How to reach me **lancemirano02@gmail.com*
+- 📫 How to reach me *lancemirano02@gmail.com*
 
 
 <h3 align="left">Languages and Tools:</h3>
