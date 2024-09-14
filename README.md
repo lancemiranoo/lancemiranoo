@@ -6,8 +6,3 @@
 
 - 🔭 I’m currently working on building my knowledge on programming
 - 📫 How to reach me *lancemirano02@gmail.com*
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lancemiranoo&show_icons=true&locale=en" alt="lancemiranoo" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lancemiranoo&" alt="lancemiranoo" /></p>
-
