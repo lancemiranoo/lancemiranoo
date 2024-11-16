@@ -2,4 +2,3 @@
 <h1 align="center">Hi 👋, I'm Lance</h1>
 
 - 🔭 I’m currently working on building my knowledge on programming
-- 📫 How to reach me *lancemirano02@gmail.com*
