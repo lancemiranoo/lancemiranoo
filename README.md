@@ -1,5 +1,5 @@
 <!-- ## Hi there 👋, I'm Lance -->
-<h1 align="center">Computer Science student</h1>
+<!-- <h1 align="center">Computer Science student</h1> -->
 
 <!--
 **lancemiranoo/lancemiranoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
