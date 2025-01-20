@@ -15,5 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lancemiranoo&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lancemiranoo&layout=compact)
+- 🌱 I’m currently learning Node and Express JS.
+- 🤔 I’m interested in Software Engineering and Data Analytics.
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lancemiranoo&show_icons=true) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lancemiranoo&layout=compact)
 
