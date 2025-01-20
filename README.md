@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 </div>
 
 <br>
-<br>
 
 - 🌱 I’m currently learning Node and Express JS.
 - 🤔 I’m interested in Software Engineering and Data Analytics.
