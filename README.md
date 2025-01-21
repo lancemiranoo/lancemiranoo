@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <br>
 
 - 🤔 I’m interested in Software Engineering and Data Analytics.
-- 🌱 I’m currently learning Node, Express and React JS.
+- 🌱 I’m currently learning Full-Stack Java, C# and JavaScript.
   
 <br>
 
