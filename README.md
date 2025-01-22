@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/e8db8135-8ea3-4b8a-8fd1-78b47b03e595" />
+    <img src="https://github.com/user-attachments/assets/00da1a45-8ef7-4ef9-8065-30986597d4c9" />
 </div>
 
 <br>
