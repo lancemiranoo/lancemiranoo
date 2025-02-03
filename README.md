@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 <div align="center">
     <img src="https://github.com/user-attachments/assets/00da1a45-8ef7-4ef9-8065-30986597d4c9" />
 </div>
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Full-Stack Java, C# and JavaScript.
   
 <br>
-
+-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lancemiranoo&show_icons=true&theme=dracula)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lancemiranoo&layout=donut&theme=dracula)
 
