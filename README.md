@@ -27,6 +27,15 @@ Here are some ideas to get you started:
   
 <br>
 -->
+
+👋 Hello! I'm Lance, a passionate student learning Programming.
+
+🚀 Skills
+<li>Languages: Python, Java, C#, JavaScript</li>
+<li>Frameworks: React.js, Express.js, Spring Boot, .NET</li>
+<li>Databases: SSMS, Oracle XE, MongoDB, MySQL</li>
+<li>Tools: Git</li>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lancemiranoo&show_icons=true&theme=dracula)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lancemiranoo&layout=donut&theme=dracula)
 
