@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - **Languages:** Python, Java, C#, JavaScript
 - **Frameworks:** React.js, Express.js, Spring Boot, .NET
 - **Databases:** SSMS, SQL Developer, MongoDB, MySQL
-- **Tools:** Git, Postman
+- **Tools:** Git, Github, Postman
 
 ### 🎓 Education
 I am currently studying at Canada. My education is providing me with a solid foundation in software development and design principles.
