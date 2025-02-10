@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ### 🚀 Skills
 - **Languages:** Python, Java, C#, JavaScript
 - **Frameworks:** React.js, Express.js, Spring Boot, .NET
-- **Databases:** SSMS, Oracle XE, MongoDB, MySQL
+- **Databases:** SSMS, SQL Developer, MongoDB, MySQL
 - **Tools:** Git
 
 ### 🎓 Education
