@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <br>
 -->
 
-👋 Hello! I'm **Lance**, a student learning Programming.
+👋 Hello! I'm **Lance**, a student learning programming.
 
 ### 🚀 Skills
 - **Languages:** Python, Java, C#, JavaScript
@@ -37,7 +37,8 @@ Here are some ideas to get you started:
 - **Tools:** Git, GitHub, Postman
 
 ### 🎓 Education
-I am currently studying at Canada. My education is providing me with a solid foundation in software development and design principles.
+I am currently studying at Canada. 
+<!-- My education is providing me with a solid foundation in software development and design principles. -->
 
 
 
