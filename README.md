@@ -43,7 +43,6 @@ I am currently studying at Canada.
 
 
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lancemiranoo&show_icons=true&theme=dracula) -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lancemiranoo&layout=donut&theme=dracula)
+
 
 
