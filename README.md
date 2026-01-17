@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - 🎓 I am currently studying at Canada.
 - 🌱 Currently learning about DevOps
-- 🤔 I’m interested in machine learning
+- 🤔 I’m interested in Machine Learning
 
 ### 🚀 Technologies
 <p>
