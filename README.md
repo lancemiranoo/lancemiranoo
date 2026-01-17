@@ -30,7 +30,13 @@ Here are some ideas to get you started:
 
 👋 Hello! I'm **Lance**, a student learning programming.
 
-### 🚀 Skills
+### 🚀 Tools
+<div align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nodejs, github, python, javascript, express, firebase, mongodb, java"/> <br>
+        <img src="https://skillicons.dev/icons?i=mysql, git"/>
+    </a>
+</div>
 - **Languages:** Python, Java, C#, JavaScript
 - **Frameworks:** React.js, Express.js, Spring Boot, .NET
 - **Databases:** SSMS, SQL Developer, MongoDB, MySQL
