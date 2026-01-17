@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning about machine learning 
 
 ### 🚀 Technologies
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,py,java,cs,flutter,mysql,firebase,mongodb,git,postman" />
 </p>
