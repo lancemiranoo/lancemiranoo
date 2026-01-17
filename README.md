@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ### 🚀 Technologies
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,py,java,cs,flutter,mysql,firebase,mongodb,git,postman" />
+    <img src="https://skillicons.dev/icons?i=javascript,py,java,cs,flutter,mysql,firebase,mongodb,git,github,postman" />
 </p>
 <!--
 - **Languages:** Python, Java, C#, JavaScript
