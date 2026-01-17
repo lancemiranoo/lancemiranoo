@@ -30,21 +30,23 @@ Here are some ideas to get you started:
 
 👋 Hello! I'm **Lance**, a student learning programming.
 
-### 🚀 Tools
-<div align="center">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nodejs, github, python, javascript, express, firebase, mongodb, java"/> <br>
-        <img src="https://skillicons.dev/icons?i=mysql, git"/>
-    </a>
-</div>
+- 🎓 I am currently studying at Canada.
+- 🌱 I’m currently learning about machine learning 
+
+### 🚀 Technologies
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,py,java,cs,flutter,mysql,firebase,mongodb,git,postman" />
+</p>
+<!--
 - **Languages:** Python, Java, C#, JavaScript
 - **Frameworks:** React.js, Express.js, Spring Boot, .NET
 - **Databases:** SSMS, SQL Developer, MongoDB, MySQL
-- **Tools:** Git, GitHub, Postman
-
+- **Tools:** Git, GitHub, Postman 
+<!--
 ### 🎓 Education
 I am currently studying at Canada. 
-<!-- My education is providing me with a solid foundation in software development and design principles. -->
+My education is providing me with a solid foundation in software development and design principles. -->
 
 
 
