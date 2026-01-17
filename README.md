@@ -28,10 +28,11 @@ Here are some ideas to get you started:
 <br>
 -->
 
-👋 Hello! I'm **Lance**, a student learning programming.
+### 👋 Hello, I'm Lance
 
 - 🎓 I am currently studying at Canada.
-- 🌱 I’m currently learning about machine learning 
+- 🌱 Currently learning about DevOps
+- 🤔 I’m interested in machine learning
 
 ### 🚀 Technologies
 <p>
