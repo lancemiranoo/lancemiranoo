@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 - 🤔 I’m interested in Data Analytics, Web Development and Software Engineering.
 - 🌱 I’m currently learning Full-Stack Java, C# and JavaScript.
+- 🌱 Currently learning about DevOps
   
 <br>
 -->
@@ -31,9 +32,7 @@ Here are some ideas to get you started:
 ### 👋 Hello, I'm Lance
 
 - 🎓 I am currently studying at Canada.
-- 🌱 Currently learning about DevOps
-- 🤔 I’m interested in Machine Learning
-
+- 🤔 Currently learning about AI Workflow Automation.
 ### 🚀 Technologies
 <p>
   <a href="https://skillicons.dev">
